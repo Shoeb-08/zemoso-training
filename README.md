@@ -83,7 +83,7 @@ git merge new_branch
  mkdir clone_repo
  cd clone_repo
  git init
- git clone url
+ git clone url(Repo link)
 
 ```
 

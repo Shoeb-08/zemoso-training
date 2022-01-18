@@ -23,7 +23,7 @@ cd repo
 git init
 ```
 
-**to Commit**
+**To Commit**
 ```
 #first we need to add
 git add hello_world.txt

@@ -12,14 +12,32 @@
 
 
 ```
-helps in creating the repo folder
+#helps in creating the repo folder
 
 mkdir repo
 
-choosing the repo folder name
+#choosing the repo folder name
 cd repo
 
-to initialize 
+#to initialize
 git init
 ```
+
+**to Commit**
+```
+#first we need to add
+git add hello_world.txt
+git commit -m "First Commit"
+git remote add origin https://(URl of repository you want to use )
+git pull origin master
+git push origin master
+
+```
+```git commit``` to save the changes to the local repository.
+
+```git remote``` to add our remote repository location as origin(branch) which is used to refer our remote repository.
+
+```git pull```  to keep our master branch up to date.
+
+```git push```  to push the committted contents from our local repository to remote repository.
 

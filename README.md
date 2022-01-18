@@ -41,3 +41,26 @@ git push origin master
 
 ```git push```  to push the committted contents from our local repository to remote repository.
 
+**To Replace "to" with myname **
+
+```
+sed -i 's/to/MyName/g' hello_world.txt
+this command replace all "to" words with myname
+
+```
+```
+git diff
+whether the words are replaced 
+
+```
+
+```
+git add hello_world.txt
+git commit -m "new Commit" 
+git push origin master
+
+```
+
+** Revert Back**
+``` git revert HEAD```
+

@@ -62,5 +62,29 @@ git push origin master
 ```
 
 **Revert Back**
-``` git revert HEAD```
+``` 
+git revert HEAD
+```
+
+**To create new Branch**
+```
+git checkout -b new_branch
+git checkout -b Torvalds
+```
+
+**To Merge**
+```
+git checkout
+git merge new_branch
+```
+
+**To Clone the repo**
+```
+ mkdir clone_repo
+ cd clone_repo
+ git init
+ git clone url
+
+```
+
 

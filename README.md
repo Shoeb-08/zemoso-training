@@ -1,7 +1,7 @@
 # zemoso-training
 
 
-**1)I have Made 3 Branches-  Master , Torvalds , New Branch.**
+**1)There are 5 Branches- main(default contains readme), Master , Torvalds , New Branch, req.**
 
 **2)The master branch consists of the txt file uploaded through local repository.**
 
@@ -10,7 +10,7 @@
 
 **4)the new Branch consists of the txt file where all "to " are replaced with my name.**
 
-
+**5) req branch was constructed to pull request and merge**
 ```
 #helps in creating the repo folder
 
